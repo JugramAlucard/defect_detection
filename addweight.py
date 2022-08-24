@@ -3,7 +3,7 @@
 import os
 import cv2
 
-# 底板图案
+
 bottom_pic = r'D:\mvi\301117044-B\instance\data.jpg'
 # 上层图案
 top_pic = r'D:\defect\crack\crack_detection\crack_detection\regionmask-B.png'
